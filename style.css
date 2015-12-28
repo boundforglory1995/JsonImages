@@ -1,0 +1,39 @@
+body{
+
+  font-family: Verdanna,sans-serif;
+  margin: 0 auto;
+  padding:0;
+  width:960px;
+}
+
+.holder{width:300px;
+float:left;
+padding:0 auto;
+margin:10px;
+height:240px;}
+
+.afbeelding img{width:100%;}
+
+ .afbeelding{width:300px;
+height: 180px;
+overflow: hidden;}
+
+
+
+h4{background-color: #ccc;
+margin:0;}
+
+p#bron{
+	clear:both;
+	text-align: center;
+
+}
+
+p#bron a{font-size: 9px;
+text-decoration: none;
+color:#aaa;}
+
+
+
+
+
